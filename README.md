@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ismail Bhinderwala, a Master of Data Science student at UBC with 1.5 years of experience in AI and Machine Learning. I have a strong background in developing and deploying data-driven models using Python, R, SQL, and cloud platforms like Azure and AWS. I'm passionate about solving real-world problems through innovative AI solutions, enhancing workflows, and mentoring peers. Let's build something impactful!  <br>
+👋 Hi, I'm Ismail Bhinderwala, a Master of Data Science student at UBC with 2 years of experience in AI and Machine Learning. I have a strong background in developing and deploying data-driven models using Python, R, SQL, and cloud platforms like Azure and AWS. I'm passionate about solving real-world problems through innovative AI solutions, enhancing workflows, and mentoring peers. Let's build something impactful!  <br>
 
 
 ## 🌐 Socials:
